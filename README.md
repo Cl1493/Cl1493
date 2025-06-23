@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CinePals](https://github.com/melodycious/cine-pals)
 
-- 🌱 I’m currently learning **JavaScript, React.js**
+- 🌱 I’m currently learning **TypeScript, React.js, React Native**
 
 - 👯 I’m looking to collaborate on [NovelTrade](https://github.com/Zerkley/noveltradefront)
 
